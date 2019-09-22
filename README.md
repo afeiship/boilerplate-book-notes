@@ -1,2 +1,2 @@
 # boilerplate-book-notes
-> boilerplate-book-notes-description
+> Generator for book notes project.
